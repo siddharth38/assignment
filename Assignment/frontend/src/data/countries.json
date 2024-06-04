@@ -1,0 +1,29 @@
+
+{
+    "Afghanistan": {
+      "states": [
+        {
+          "name": "Badakhshan",
+          "cities": ["Faizabad", "Jurm", "Khandud", "Fayzabad"]
+        },
+        {
+          "name": "Badghis",
+          "cities": ["Bala Murghab", "Qadis", "Qala i Naw", "Bala Bowkan", "Bala Hisar", "Bala Ghar"]
+        }
+      ]
+    },
+    "Albania": {
+      "states": [
+        {
+          "name": "Berat",
+          "cities": ["Berat", "Kuçovë", "Poliçan", "Ura Vajgurore"]
+        },
+        {
+          "name": "Dibër",
+          "cities": ["Bulqizë", "Dibër", "Klos", "Mat", "Rrëshen"]
+        }
+      ]
+    }
+   
+  }
+  
